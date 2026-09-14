@@ -1,0 +1,11 @@
+date,amount,currency,description,category
+2026-01-15,42.50,USD,Grocery run,groceries
+2026-01-16,15.00,EUR,Train ticket,travel
+2026-01-17,60.00,USD,Concert tickets,entertainment
+2026-01-18,-8.99,EUR,Streaming subscription,other
+2026-13-40,20.00,USD,Bad date row,food
+2026-01-20,not-a-number,USD,Bad amount row,food
+2026-01-21,30.00,GBP,Unsupported currency row,food
+2026-01-22,10.00,USD,,other
+2026-01-23,25.00,USD,Weekend trip,unknown_category
+2026-01-15,42.50,USD,Grocery run,groceries
